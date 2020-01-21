@@ -25,6 +25,9 @@ For convenience, [**Downloads**] are collected in a single page [here](https://a
 in [Documentation](https://documentation.tribefire.com/), you can find detailed written explanations about TF, its features, and its cloud-based deployment. The implementation of the case study in Figure 1 is available [here](https://documentation.tribefire.com/tribefire.extension.demo/tribefire-demo-cartridge-doc/ddsa_employeesbygender.html?searchText=employee%20by%20gender).
 
 # Ecore2GmModel Transformation Prototype
+
+NOTE: if the given launchers raise null point exceptions, please recreate them with the exactly the same configurations.
+
 The Ecore2GmModel Prototype is a model transformation implemented in by a combination of [EOL](https://www.eclipse.org/epsilon/doc/eol/), [EGL](https://www.eclipse.org/epsilon/doc/egl/) and [EGX](https://www.eclipse.org/epsilon/doc/egx/) specifications, three DSLs provided by the [Eclipse Epsilon](https://www.eclipse.org/epsilon/) framework. 
 **EOL** is an imperative programming language for creating, querying and modifying EMF models. 
 **EGL** is a template-based model-to-text language for generating code, documentation and other textual artefacts from models. 
