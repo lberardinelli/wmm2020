@@ -26,7 +26,7 @@ in [Documentation](https://documentation.tribefire.com/), you can find detailed 
 
 # Ecore2GmModel Transformation Prototype
 
-NOTE: if the given launchers raise null point exceptions, please recreate them with the exactly the same configurations.
+**NOTE: if the given launchers raise null point exceptions, please recreate them with the same configurations.**
 
 The Ecore2GmModel Prototype is a model transformation implemented in by a combination of [EOL](https://www.eclipse.org/epsilon/doc/eol/), [EGL](https://www.eclipse.org/epsilon/doc/egl/) and [EGX](https://www.eclipse.org/epsilon/doc/egx/) specifications, three DSLs provided by the [Eclipse Epsilon](https://www.eclipse.org/epsilon/) framework. 
 **EOL** is an imperative programming language for creating, querying and modifying EMF models. 
