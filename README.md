@@ -1,4 +1,4 @@
-# Tribefire: a Platform for Platforms driven by Normalised Models
+# Tribefire: a Platform for Platforms based on Cortex Generic Modelling.
 This is a companion public git repository of the tool demo paper submitted to Models 2019.
 It includes:
 
